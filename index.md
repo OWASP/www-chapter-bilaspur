@@ -24,7 +24,7 @@ We organize **meetups, workshops, and technical talks** to share knowledge, lear
 
 ## Participation
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.org/){:target="_blank"}, and [Community Slack Channel](https://owasp.slack.com/){:target="_blank"}.  
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.org/), and [Community Slack Channel](https://owasp.slack.com/).  
 
 We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert.  
 
