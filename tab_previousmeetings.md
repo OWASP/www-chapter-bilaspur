@@ -2,32 +2,37 @@
 title: PreviousMeetings
 displaytext: Previous Meetings
 tab: true
-order: 1
+order: 2
 tags: BSP
 ---
+
 <style>
   main {
     word-break: normal;
   } 
 </style>
-# **Previous Meeting Venue and Dates**
+
+# Previous Meeting Venue and Dates
 
 <table>
 <thead>
-<tr class="header">
-<th><p>No</p></th>
-<th><p>Date</p></th>
-<th><p>Venue</p></th>
-<th><p>Time</p></th>
+<tr>
+<th>No</th>
+<th>Date</th>
+<th>Venue</th>
+<th>Time</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-# **Meeting Summaries**
+</tbody>
+</table>
 
-[Summaries from Past Meetings](Bilaspur/Archives "wikilink")
+# Meeting Summaries
+
+[Summaries from Past Meetings](Bilaspur/Archives)
