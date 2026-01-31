@@ -35,7 +35,7 @@ You can also [become a member](/membership/) or consider a [donation](/donate/) 
 ---
 
 ## Next Meeting/Event  
-{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_tabs.html %}
 
 ---
 
