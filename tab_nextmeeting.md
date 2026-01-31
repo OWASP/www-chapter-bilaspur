@@ -6,11 +6,10 @@ order: 1
 tags: BSP
 ---
 
-# **Next Meeting**
+# Next Meeting
 
 ## To be updated 
 
-
-### **Sessions**
+### Sessions
 
 * To Be Shared
