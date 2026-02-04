@@ -27,34 +27,32 @@ tags: BSP
 <tr>
 <td>1</td>
 <td>04/10/25</td>
-<td>To Be Updated</td>
-<td>To Be Updated</td>
+<td>The Country Club</td>
+<td>12:00 PM</td>
 </tr>
 
 <tr>
 <td>2</td>
 <td>30/11/25</td>
-<td>To Be Updated</td>
-<td>To Be Updated</td>
+<td>The Country Club</td>
+<td>10:00 AM</td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>21/12/25</td>
-<td>To Be Updated</td>
-<td>To Be Updated</td>
+<td>Elemental Cafe & Restaurant</td>
+<td>5:00 PM</td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>17/01/26</td>
-<td>To Be Updated</td>
-<td>To Be Updated</td>
+<td>Hall No 2, AKTU Bilaspur</td>
+<td>12:00 PM</td>
 </tr>
 
 </tbody>
 </table>
 
 # Meeting Summaries
-
-[Summaries from Past Meetings](Bilaspur/Archives)
