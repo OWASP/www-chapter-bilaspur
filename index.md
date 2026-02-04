@@ -10,6 +10,8 @@ leaders:
   - Abijeet Singh
 ---
 
+{% include chapter_tabs.html %}
+
 ## Welcome to OWASP Bilaspur
 
 The **OWASP Bilaspur Chapter** is part of the Open Worldwide Application Security Project (OWASP), a nonprofit foundation that works to improve the security of software.  
@@ -31,11 +33,6 @@ We especially encourage diversity in all our initiatives. OWASP is a fantastic p
 To become a **speaker** at our chapter events, review the [Speaker Agreement](/www-policy/speaker-agreement) and then contact the chapter leaders with your topic proposal.  
 
 You can also [become a member](/membership/) or consider a [donation](/donate/) to support OWASP’s global work.  
-
----
-
-## Next Meeting/Event  
-{% include chapter_tabs.html %}
 
 ---
 
