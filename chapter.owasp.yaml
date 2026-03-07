@@ -1,0 +1,24 @@
+leaders:
+  - name: Akriti Sagar
+    email: akriti.sagar@owasp.org
+    github: akritisagar028-prog
+  - name: Abijeet Singh
+    email: abijeet.singh@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Chhattisgarh
+  city: Bilaspur
+  latitude: 22.1638486
+  longitude: 82.1365923
+meetup_group: owasp-bilaspur-chapter
+name: OWASP Bilaspur
+repositories:
+  - name: www-chapter-bilaspur
+    url: https://github.com/OWASP/www-chapter-bilaspur
+    description: OWASP Foundation web repository
+tags:
+  - bilaspur-india
+  - security
+  - application-security
+website: https://owasp.org/www-chapter-bilaspur
