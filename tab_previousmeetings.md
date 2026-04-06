@@ -58,6 +58,13 @@ tags: BSP
 <td>First floor, Shivam Complex</td>
 <td>02:00 PM</td>
 </tr>
+
+<tr>
+<td>6</td>
+<td>26/03/26</td>
+<td>Elemental cafe & Restaurant</td>
+<td>04:00 PM</td>
+</tr>
 </tbody>
 </table>
 
