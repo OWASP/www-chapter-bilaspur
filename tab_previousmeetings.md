@@ -68,4 +68,13 @@ tags: BSP
 </tbody>
 </table>
 
+<tr>
+<td>7</td>
+<td>27/04/26</td>
+<td>Elemental cafe & Restaurant</td>
+<td>10:00 AM</td>
+</tr>
+</tbody>
+</table>
+
 # Meeting Summaries
