@@ -65,8 +65,6 @@ tags: BSP
 <td>Elemental cafe & Restaurant</td>
 <td>04:00 PM</td>
 </tr>
-</tbody>
-</table>
 
 <tr>
 <td>7</td>
