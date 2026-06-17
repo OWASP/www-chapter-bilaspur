@@ -73,6 +73,13 @@ tags: BSP
 <td>10:00 AM</td>
 </tr>
 
+<tr>
+<td>8</td>
+<td>21/05/26</td>
+<td>Elemental cafe & Restaurant</td>
+<td>02:00 PM</td>
+</tr>
+
 </tbody>
 </table>
 
