@@ -94,6 +94,20 @@ tags: BSP
 <td>06:00 PM</td>
 </tr>
 
+<tr>
+<td>11</td>
+<td>16/09/26</td>
+<td>Elemental cafe & Restaurant</td>
+<td>11:00 AM</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td>30/10/26</td>
+<td>Elemental cafe & Restaurant</td>
+<td>01:00 PM</td>
+</tr>
+
 </tbody>
 </table>
 
